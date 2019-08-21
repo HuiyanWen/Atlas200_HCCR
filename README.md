@@ -28,10 +28,10 @@ Pause</br>
 caffe-master\Build\x64\Release\caffe.exe  train --solver=caffe-master\examples\mnist\lenet_solver_adam.prototxt
 pause </br> 
 <br>19.	保存并双击运行，caffe开始用mnist数据集训练lenet网络。表明Caffe框架安装成功！！！
-I0814 15:48:54.821549 16076 sgd_solver.cpp:273] Snapshotting solver state to binary proto file caffe-master/examples/mnist/lenet_iter_10000.solverstate
-I0814 15:48:54.852798 16076 solver.cpp:317] Iteration 10000, loss = 0.00243393
-I0814 15:48:54.852798 16076 solver.cpp:337] Iteration 10000, Testing net (#0)
-I0814 15:48:55.087173 16076 solver.cpp:404]     Test net output #0: accuracy = 0.9882
-I0814 15:48:55.087173 16076 solver.cpp:404]     Test net output #1: loss = 0.0641316 (* 1 = 0.0641316 loss)
-I0814 15:48:55.087173 16076 solver.cpp:322] Optimization Done.
-I0814 15:48:55.087173 16076 caffe.cpp:255] Optimization Done.</br>
+<br>I0814 15:48:54.821549 16076 sgd_solver.cpp:273] Snapshotting solver state to binary proto file caffe-master/examples/mnist/lenet_iter_10000.solverstate
+<br>I0814 15:48:54.852798 16076 solver.cpp:317] Iteration 10000, loss = 0.00243393
+<br>I0814 15:48:54.852798 16076 solver.cpp:337] Iteration 10000, Testing net (#0)
+<br>I0814 15:48:55.087173 16076 solver.cpp:404]     Test net output #0: accuracy = 0.9882
+<br>I0814 15:48:55.087173 16076 solver.cpp:404]     Test net output #1: loss = 0.0641316 (* 1 = 0.0641316 loss)
+<br>I0814 15:48:55.087173 16076 solver.cpp:322] Optimization Done.
+<br>I0814 15:48:55.087173 16076 caffe.cpp:255] Optimization Done.</br>
