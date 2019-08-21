@@ -4,8 +4,8 @@
 ![Example image2](https://github.com/HuiyanWen/Atlas200_HCCR/blob/master/1.png)  
 
 <h3>MicroSoft Caffe环境配置</h3>
-<br>1.	升级操作系统到server 2019，内核实际为win10</br>
-<br>2.	安装vs 2019，vs2013，最后使用的是vs2013</br>
+<br>1.	升级操作系统到server 2019，内核实际为win10
+<br>2.	安装vs 2019，vs2013，最后使用的是vs2013
 <br>3.	安装cuda10.1，最后使用的是cuda8</br>
 <br>4.	下载caffe包。从Microsoft官方Github上下载Caffe的源码压缩包https://github.com/Microsoft/caffe</br>
 <br>5.	修改CommonSettings.props，把cuda、cudnn路径补充上，matlab和python都不支持</br>
