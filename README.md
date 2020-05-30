@@ -4,6 +4,4 @@
 
 ![Example image2](https://github.com/HuiyanWen/Atlas200_HCCR/blob/master/tx6or-k8jom.gif)
 
-![Example image2](https://github.com/HuiyanWen/Atlas200_HCCR/blob/master/1.png)
-
 
